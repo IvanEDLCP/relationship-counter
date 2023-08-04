@@ -1,0 +1,30 @@
+{
+  "name": "relationship-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanEDLCP/relationship-counter.git"
+  },
+  "keywords": [
+    "PHP",
+    "JS",
+    "HTML",
+    "CSS",
+    "MVC",
+    "SQL"
+  ],
+  "author": "Ivan E. De la Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanEDLCP/relationship-counter/issues"
+  },
+  "homepage": "https://github.com/IvanEDLCP/relationship-counter#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2"
+  }
+}
